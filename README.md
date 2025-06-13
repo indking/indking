@@ -1,9 +1,15 @@
 
 <div align="center">
 
-<!-- Dynamic Title with Gradient -->
+<!-- Epic 3D Fighting Background with Visual Effects -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6,17,13,9&height=300&section=header&text=NIKHIL%20KAWADE&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Elite%20Developer%20%7C%20Code%20Warrior%20%7C%20Tech%20Fighter&descAlignY=55&descAlign=50" width="100%" />
+
+<!-- Animated Fire Effects -->
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%" height="5" />
+
+<!-- Dynamic Title with Gaming Effects -->
 <h1>
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nikhil+Kawade!;Elite+Software+Architect!;Innovation+Leader!;Let's+Build+Amazing+Things!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=600&height=80&duration=3000&lines=⚔️+CODE+WARRIOR+ENTERED+⚔️;💀+DEBUGGING+BOSS+DEFEATED+💀;🔥+DEPLOYING+FIRE+ATTACKS+🔥;💥+SYSTEM+ARCHITECTURE+BLAST+💥;🚀+LAUNCHING+TECH+COMBOS+🚀;👑+ULTIMATE+DEVELOPER+VICTORY+👑" />
 </h1>
 
 <!-- Animated Avatar -->
