@@ -187,24 +187,24 @@ const nikhil = {
 
 ### 📋 Project Management & Collaboration
 <div align="center">
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" />
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
-  <img src="https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white" />
+  <a href="https://www.atlassian.com/software/jira" target="_blank"><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" /></a>
+  <a href="https://www.atlassian.com/software/confluence" target="_blank"><img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" /></a>
+  <a href="https://slack.com/" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" /></a>
+  <a href="https://trello.com/" target="_blank"><img src="https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white" /></a>
 </div>
 <div align="center">
-  <img src="https://img.shields.io/badge/ServiceNow-62D84E?style=for-the-badge&logo=servicenow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zendesk-03363D?style=for-the-badge&logo=zendesk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white" />
+  <a href="https://www.servicenow.com/" target="_blank"><img src="https://img.shields.io/badge/ServiceNow-62D84E?style=for-the-badge&logo=servicenow&logoColor=white" /></a>
+  <a href="https://www.zendesk.com/" target="_blank"><img src="https://img.shields.io/badge/Zendesk-03363D?style=for-the-badge&logo=zendesk&logoColor=white" /></a>
+  <a href="https://azure.microsoft.com/en-us/products/devops/" target="_blank"><img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" /></a>
+  <a href="https://www.microsoft.com/en-us/microsoft-teams/group-chat-software" target="_blank"><img src="https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white" /></a>
 </div>
 
 ### 🤖 AI & Modern Tools
 <div align="center">
-  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cursor%20AI-00D8FF?style=for-the-badge&logo=cursor&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+  <a href="https://github.com/features/copilot" target="_blank"><img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://cursor.sh/" target="_blank"><img src="https://img.shields.io/badge/Cursor%20AI-00D8FF?style=for-the-badge&logo=cursor&logoColor=white" /></a>
+  <a href="https://openai.com/chatgpt" target="_blank"><img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" /></a>
+  <a href="https://ollama.ai/" target="_blank"><img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" /></a>
 </div>
 
 </div>
