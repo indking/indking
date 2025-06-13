@@ -17,14 +17,7 @@
   <!-- Animated Power-Up Ring -->
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="250" height="250" alt="Power Ring" />
   <!-- Character Avatar in Center -->
-  <img src="https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/4fbec4c9-41fc-450a-8542-64f0e658e75d.png" width="180" height="180" alt="Nikhil Kawade - AI Generated Virtual Avatar" style="border-radius: 50%; border: 4px solid #ff6b00; position: absolute; top: 35px; left: 35px; box-shadow: 0 0 30px #ff6b00;" />
-</div>
-
-<!-- AI Avatar Notice -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284075-2ca4b788-f9e7-4b68-a9fb-5b12f5e24c5e.gif" width="20" height="20" />
-  <sub><strong>🤖 AI-Generated Virtual Avatar - Digital Representation of Nikhil Kawade 🤖</strong></sub>
-  <img src="https://user-images.githubusercontent.com/74038190/212284075-2ca4b788-f9e7-4b68-a9fb-5b12f5e24c5e.gif" width="20" height="20" />
+  <img src="https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/4fbec4c9-41fc-450a-8542-64f0e658e75d.png" width="180" height="180" alt="Nikhil Kawade" style="border-radius: 50%; border: 4px solid #ff6b00; position: absolute; top: 35px; left: 35px; box-shadow: 0 0 30px #ff6b00;" />
 </div>
 
 <!-- Epic Power Blast -->
@@ -191,7 +184,7 @@ const techFighter = {
   <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="40" height="40" />
 </div>
 
-### ⚔️ PRIMARY WEAPONS (Programming Languages)
+### 💻 Programming Languages
 <div align="center">
   <a href="https://www.oracle.com/java/" target="_blank"><img src="https://skillicons.dev/icons?i=java" alt="Java" /></a>
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://skillicons.dev/icons?i=cs" alt="C#" /></a>
@@ -199,64 +192,37 @@ const techFighter = {
   <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" /></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" /></a>
-  <a href="https://golang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=go" alt="Go" /></a>
-  <a href="https://www.rust-lang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=rust" alt="Rust" /></a>
-  <a href="https://kotlinlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" /></a>
-  <a href="https://www.php.net/" target="_blank"><img src="https://skillicons.dev/icons?i=php" alt="PHP" /></a>
-  <a href="https://www.scala-lang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=scala" alt="Scala" /></a>
-  <a href="https://dart.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=dart" alt="Dart" /></a>
 </div>
 
-<!-- Language Mastery Levels -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="20" height="20" />
-  <strong>MASTERY LEVELS: Java ⭐⭐⭐⭐⭐ | Python ⭐⭐⭐⭐⭐ | C# ⭐⭐⭐⭐⭐ | JavaScript ⭐⭐⭐⭐ | TypeScript ⭐⭐⭐⭐</strong>
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="20" height="20" />
-</div>
-
-### 🏰 DATA FORTRESSES (Databases & Storage)
+### 🗄️ Databases & Storage
 <div align="center">
   <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a>
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" /></a>
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" /></a>
   <a href="https://redis.io/" target="_blank"><img src="https://skillicons.dev/icons?i=redis" alt="Redis" /></a>
   <a href="https://www.oracle.com/database/" target="_blank"><img src="https://skillicons.dev/icons?i=oracle" alt="Oracle" /></a>
-  <a href="https://cassandra.apache.org/" target="_blank"><img src="https://skillicons.dev/icons?i=cassandra" alt="Cassandra" /></a>
-  <a href="https://www.elastic.co/elasticsearch/" target="_blank"><img src="https://skillicons.dev/icons?i=elasticsearch" alt="Elasticsearch" /></a>
-  <a href="https://neo4j.com/" target="_blank"><img src="https://skillicons.dev/icons?i=neo4j" alt="Neo4j" /></a>
-  <a href="https://www.influxdata.com/" target="_blank"><img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white" /></a>
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" /></a>
-  <a href="https://supabase.com/" target="_blank"><img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" /></a>
-  <a href="https://planetscale.com/" target="_blank"><img src="https://skillicons.dev/icons?i=planetscale" alt="PlanetScale" /></a>
 </div>
 
-### ☁️ CLOUD DOMINION & DEVOPS MASTERY
+### ☁️ Cloud & DevOps
 <div align="center">
   <a href="https://aws.amazon.com/" target="_blank"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" /></a>
   <a href="https://azure.microsoft.com/" target="_blank"><img src="https://skillicons.dev/icons?i=azure" alt="Azure" /></a>
-  <a href="https://cloud.google.com/" target="_blank"><img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud" /></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>
   <a href="https://kubernetes.io/" target="_blank"><img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" /></a>
   <a href="https://www.jenkins.io/" target="_blank"><img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" /></a>
   <a href="https://github.com/features/actions" target="_blank"><img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" /></a>
-  <a href="https://www.terraform.io/" target="_blank"><img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" /></a>
-  <a href="https://www.ansible.com/" target="_blank"><img src="https://skillicons.dev/icons?i=ansible" alt="Ansible" /></a>
 </div>
 <div align="center">
   <a href="https://podman.io/" target="_blank"><img src="https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white" /></a>
   <a href="https://grafana.com/" target="_blank"><img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" /></a>
   <a href="https://prometheus.io/" target="_blank"><img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" /></a>
   <a href="https://www.datadoghq.com/" target="_blank"><img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" /></a>
-  <a href="https://helm.sh/" target="_blank"><img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" /></a>
-  <a href="https://istio.io/" target="_blank"><img src="https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white" /></a>
 </div>
 <div align="center">
   <a href="https://aws.amazon.com/cloudwatch/" target="_blank"><img src="https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazoncloudwatch&logoColor=white" /></a>
   <a href="https://opentelemetry.io/" target="_blank"><img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white" /></a>
   <a href="https://grafana.com/oss/loki/" target="_blank"><img src="https://img.shields.io/badge/Loki-F46800?style=for-the-badge&logo=grafana&logoColor=white" /></a>
   <a href="https://coralogix.com/" target="_blank"><img src="https://img.shields.io/badge/Coralogix-5B2D87?style=for-the-badge&logo=coralogix&logoColor=white" /></a>
-  <a href="https://argoproj.github.io/" target="_blank"><img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" /></a>
-  <a href="https://fluxcd.io/" target="_blank"><img src="https://img.shields.io/badge/FluxCD-5468FF?style=for-the-badge&logo=flux&logoColor=white" /></a>
 </div>
 
 ### 🏢 Enterprise Application Development
