@@ -1,11 +1,53 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>Nikhil Kawade - Elite Software Architect & Innovation Leader</title>
-<style>
-  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=JetBrains+Mono:wght@400;500;600&display=swap');
+<div align="center">
+
+<!-- Dynamic Title with Gradient -->
+<h1>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nikhil+Kawade!;Elite+Software+Architect!;Innovation+Leader!;Let's+Build+Amazing+Things!" />
+</h1>
+
+<!-- Animated Avatar with Glow Effect -->
+<img src="https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/4fbec4c9-41fc-450a-8542-64f0e658e75d.png" width="200" height="200" style="border-radius: 50%; border: 4px solid #00ff88; box-shadow: 0 0 30px #00ff88;" alt="Nikhil Kawade" />
+
+<!-- Professional Tagline -->
+<h3 align="center">🚀 Elite Software Architect & Innovation Leader 🚀</h3>
+<h4 align="center">Transforming Complex Challenges into Elegant Solutions</h4>
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+</div>
+
+<!-- About Me Section with Icons -->
+<div align="center">
+
+## 🌟 About Me
+
+```typescript
+const nikhil = {
+    role: "Elite Software Architect & Innovation Leader",
+    location: "🌍 Global Remote",
+    experience: "8+ Years of Excellence",
+    specialization: ["System Architecture", "Cloud Solutions", "Team Leadership"],
+    passion: "Building scalable systems that make a difference",
+    motto: "Code is poetry written in logic ✨"
+};
+```
+
+<!-- Quick Stats -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=indking&label=Profile%20Views&color=00ff88&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/indking?label=Followers&style=for-the-badge&color=00ff88" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/indking?label=Stars&style=for-the-badge&color=4facfe" alt="Stars" />
+</div>
+
+</div>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- Current Focus Section -->
+<div align="center">
+
+## 🎯 Current Focus
   
   *, *::before, *::after {
     box-sizing: border-box;
