@@ -201,7 +201,7 @@ const nikhil = {
 <tr>
 <td width="50%">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=indking&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4facfe&icon_color=00f2fe&text_color=ffffff&count_private=false&include_all_commits=true&hide_rank=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=indking&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4facfe&icon_color=00f2fe&text_color=ffffff&count_private=false&include_all_commits=true&hide_rank=false&custom_title=Nikhil's%20GitHub%20Stats&disable_animations=false&range=all)
 
 </td>
 <td width="50%">
