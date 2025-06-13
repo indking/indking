@@ -1,3 +1,229 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Nikhil Kawade - Modern 3D Profile Enhanced</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+  *, *::before, *::after {
+    box-sizing: border-box;
+  }
+  body {
+    margin: 0; 
+    padding: 0; 
+    font-family: 'Inter', sans-serif;
+    background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+    color: #e0e6f1;
+    overflow-x: hidden;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem 1rem;
+  }
+  .container {
+    max-width: 900px;
+    width: 100%;
+    background: rgba(255 255 255 / 0.1);
+    border-radius: 16px;
+    padding: 3rem 3rem 4rem;
+    box-shadow: 0 8px 25px rgba(0,0,0,0.5);
+    text-align: center;
+    position: relative;
+    z-index: 2;
+  }
+  header h1 {
+    font-weight: 800;
+    font-size: 3rem;
+    letter-spacing: 0.05em;
+    margin-bottom: 0.3rem;
+    color: #fff;
+    text-shadow: 0 0 12px rgba(77,171,247,0.8);
+    animation: fadeSlideDown 1s ease forwards;
+  }
+  header p {
+    font-size: 1.15rem;
+    margin: 0.5rem 0 1.5rem 0;
+    color: #bfc9d6;
+    letter-spacing: 0.03em;
+  }
+  header a {
+    color: #4dabf7;
+    font-weight: 600;
+    text-decoration: none;
+  }
+  header a:hover,
+  header a:focus {
+    text-decoration: underline;
+  }
+  .avatar-container {
+    margin: 2rem auto 2.5rem;
+    width: 160px;
+    height: 160px;
+    perspective: 900px;
+    position: relative;
+  }
+  .avatar-sphere {
+    width: 160px;
+    height: 160px;
+    border-radius: 50%;
+    background: radial-gradient(circle at center, #4dabf7, #1762d8);
+    box-shadow:
+      inset 0 0 12px #75a7f8,
+      0 10px 30px rgba(23,98,216,0.75);
+    transform-style: preserve-3d;
+    transition: transform 0.2s ease-out;
+    position: relative;
+    z-index: 1;
+  }
+  .avatar-photo {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    width: 140px;
+    height: 140px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 3px solid rgba(255 255 255 / 0.3);
+    filter: drop-shadow(0 5px 12px rgba(0,0,0,0.5));
+    z-index: 2;
+  }
+  .tech-section {
+    margin-top: 3rem;
+  }
+  .tech-section h2 {
+    font-weight: 700;
+    font-size: 2rem;
+    margin-bottom: 1.5rem;
+    color: #dde4f7;
+    text-shadow: 0 0 10px #4dabf7;
+  }
+  .tech-logos {
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(70px,1fr));
+    gap: 28px;
+    justify-items: center;
+    align-items: center;
+  }
+  .tech-logos img {
+    max-width: 60px;
+    filter: drop-shadow(0 0 8px rgba(0,0,0,0.45));
+    transition: transform 0.3s ease, filter 0.3s ease;
+    cursor: default;
+    border-radius: 8px;
+    background: white;
+    padding: 6px;
+  }
+  .tech-logos img:hover,
+  .tech-logos img:focus {
+    transform: scale(1.2);
+    filter: drop-shadow(0 0 18px #4dabf7);
+  }
+  footer {
+    margin-top: 3rem;
+    color: #99aaccaa;
+    font-size: 0.9rem;
+    text-align: center;
+  }
+  @keyframes fadeSlideDown {
+    0% {
+      opacity: 0;
+      transform: translateY(-20px);
+    }
+    100% {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    *, *::before, *::after {
+      animation: none !important;
+      transition: none !important;
+    }
+  }
+  @media (max-width: 480px) {
+    header h1 {
+      font-size: 2.2rem;
+    }
+    .tech-logos {
+      grid-template-columns: repeat(auto-fit,minmax(50px,1fr));
+      gap: 18px;
+    }
+    .tech-logos img {
+      max-width: 45px;
+    }
+  }
+</style>
+</head>
+<body>
+  <div class="container" role="main" aria-label="Nikhil Kawade developer profile with interactive 3D avatar and technology logos">
+    <header>
+      <h1 tabindex="0">Nikhil Kawade</h1>
+      <p tabindex="0"><a href="https://github.com/indking" target="_blank" rel="noopener noreferrer">github.com/indking</a></p>
+      <p tabindex="0"><a href="https://indking.in" target="_blank" rel="noopener noreferrer">indking.in</a></p>
+    </header>
+
+    <div class="avatar-container" aria-label="Interactive 3D sphere avatar representing Nikhil Kawade">
+      <div class="avatar-sphere" id="avatarSphere" tabindex="0" aria-describedby="avatarDesc"></div>
+      <img src="https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/4fbec4c9-41fc-450a-8542-64f0e658e75d.png" alt="Professional portrait photo of Nikhil Kawade" class="avatar-photo" />
+      <div id="avatarDesc" class="sr-only">
+        Interactive 3D sphere that rotates based on user mouse or touch interaction behind profile photo.
+      </div>
+    </div>
+
+    <section class="tech-section" aria-labelledby="tech-title">
+      <h2 id="tech-title">Technologies & Tools</h2>
+      <div class="tech-logos" role="list" aria-label="Technology logos">
+        <!-- Programming Languages -->
+        <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java programming language logo" tabindex="0" />
+        <img src="https://cdn.worldvectorlogo.com/logos/dot-net.svg" alt=".NET logo" tabindex="0" />
+        <img src="https://cdn.worldvectorlogo.com/logos/c-sharp-1.svg" alt="C# programming language logo" tabindex="0" />
+        <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python programming language logo" tabindex="0" />
+
+        <!-- Databases / SQL -->
+        <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="MySQL database logo" tabindex="0" />
+        <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="PostgreSQL database logo" tabindex="0" />
+        <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="Microsoft SQL Server logo" tabindex="0" />
+        <img src="https://cdn.worldvectorlogo.com/logos/oracle.svg" alt="Oracle database logo" tabindex="0" />
+
+        <!-- Cloud, Container, Integration -->
+        <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="Amazon Web Services logo" tabindex="0" />
+        <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker logo" tabindex="0" />
+        <img src="https://cdn.worldvectorlogo.com/logos/kubernetes.svg" alt="Kubernetes logo" tabindex="0" />
+        <img src="https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/b3deba51-2b3d-4f32-aa4c-bc42d92dea0a.png" alt="Magic xpi integration platform logo" tabindex="0" />
+        <img src="https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/dd28e2c4-21c4-4b76-ad51-f7072683f479.png" alt="Magic xpa application platform logo" tabindex="0" />
+
+        <!-- DevOps Tools -->
+        <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git version control logo" tabindex="0" />
+        <img src="https://cdn.worldvectorlogo.com/logos/jenkins.svg" alt="Jenkins automation server logo" tabindex="0" />
+        <img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" alt="GitHub logo" tabindex="0" />
+
+        <!-- Collaboration & Project Management -->
+        <img src="https://cdn.worldvectorlogo.com/logos/jira.svg" alt="Jira project management software logo" tabindex="0" />
+        <img src="https://cdn.worldvectorlogo.com/logos/confluence.svg" alt="Confluence collaboration software logo" tabindex="0" />
+        <img src="https://cdn.worldvectorlogo.com/logos/bitbucket.svg" alt="Bitbucket repository hosting logo" tabindex="0" />
+        <img src="https://cdn.worldvectorlogo.com/logos/slack-icon.svg" alt="Slack communications platform logo" tabindex="0" />
+        <img src="https://cdn.worldvectorlogo.com/logos/trello.svg" alt="Trello project management tool logo" tabindex="0" />
+        <img src="https://cdn.worldvectorlogo.com/logos/azure-devops.svg" alt="Azure DevOps logo" tabindex="0" />
+
+        <!-- AI and Assistants -->
+        <img src="https://cdn.worldvectorlogo.com/logos/copilot.svg" alt="GitHub Copilot AI code assistant logo" tabindex="0" />
+        <img src="https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/60529d0a-b6fd-4a79-adda-0c4d6ea9779f.png" alt="Cursor AI assistant logo placeholder blue gradient" tabindex="0" />
+        <img src="https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/92c74108-8ea9-46eb-8609-0484ea0844ce.png" alt="Winserf AI logo placeholder light blue gradient" tabindex="0" />
+        <img src="https://cdn.worldvectorlogo.com/logos/ollama.svg" alt="Ollama AI logo" tabindex="0" />
+      </div>
+    </section>
+  </div>
+
+  <footer role="contentinfo">
+    © 2025 Nikhil Kawade. Crafted with modern web animation and accessibility best practices.
+  </footer>
+
+<script>
+  const sphere = document.getElementById('avatarSphere');
+  if (sphere) {
     const maxRotation = 15;
     function onPointerMove(e) {
       const rect = sphere.getBoundingClientRect();
@@ -30,436 +256,7 @@
     sphere.addEventListener('blur', resetRotation);
   }
 </script>
+
 </body>
 </html>
 
-write design for best uiux- Base64 Encoder and Decoder
-
-Write best requirement to create web app.
-BLACKBOXAI
-
-    Which websites inspire your ideal Base64 Encoder UI design?
-    What layout and features should the encoder/decoder have?
-    What mood or brand personality should the app convey?
-
-yes
-BLACKBOXAI
-
-To create a user-friendly Base64 Encoder and Decoder web application, the following design requirements and features should be considered:
-1. User Interface (UI) Design
-Layout
-
-    Header: Include a clear title, e.g., "Base64 Encoder & Decoder", with a brief description of the tool's purpose.
-    Input Area:
-        A large text area for users to input their data (text or binary).
-        A toggle switch or radio buttons to select between "Encode" and "Decode" modes.
-    Output Area:
-        A separate text area to display the encoded or decoded result.
-        An option to copy the output to the clipboard easily.
-    Buttons:
-        A prominent "Encode" button and a "Decode" button.
-        A "Clear" button to reset both input and output areas.
-
-Visual Design
-
-    Color Scheme: Use a clean and modern color palette (e.g., soft blues and whites) to enhance readability.
-    Typography: Choose legible fonts with appropriate sizes for headers, input, and output text.
-    Responsive Design: Ensure the layout is mobile-friendly and adapts to different screen sizes.
-
-2. User Experience (UX) Design
-Features
-
-    Real-time Feedback: As users type or paste data, provide instant feedback by showing the encoded/decoded result in real-time.
-    Error Handling: Display clear error messages for invalid inputs (e.g., non-ASCII characters for encoding).
-    Accessibility: Ensure the app is accessible to users with disabilities (e.g., keyboard navigation, screen reader compatibility).
-    Help Section: Include a help or FAQ section explaining what Base64 encoding/decoding is and how to use the tool effectively.
-
-Performance
-
-    Fast Processing: Ensure that encoding and decoding operations are performed quickly, even for large inputs.
-    Minimal Load Time: Optimize the app to load quickly, with minimal dependencies.
-
-3. Technical Requirements
-Frontend
-
-    Framework: Use a modern JavaScript framework (e.g., React, Vue.js, or Angular) for a dynamic user interface.
-    Styling: Utilize CSS frameworks (e.g., Bootstrap or Tailwind CSS) for responsive design and consistent styling.
-
-Backend (if applicable)
-
-    Server-side Processing: If encoding/decoding is done server-side, use a lightweight backend framework (e.g., Node.js, Flask) to handle requests.
-    API: Create a RESTful API for encoding and decoding operations if needed.
-
-4. Security
-
-    Input Validation: Ensure all user inputs are validated to prevent injection attacks.
-    HTTPS: Use HTTPS to secure data transmission.
-
-5. Testing
-
-    User Testing: Conduct usability testing with real users to gather feedback and make improvements.
-    Cross-Browser Compatibility: Test the application on different browsers (Chrome, Firefox, Safari, Edge) to ensure consistent performance.
-
-6. Deployment
-
-    Hosting: Choose a reliable hosting service (e.g., Vercel, Netlify, or AWS) for deployment.
-    Monitoring: Implement monitoring tools to track performance and user engagement.
-
-By following these design requirements and features, you can create an effective and user-friendly Base64 Encoder and Decoder web application that meets the needs of your users.
-
-helm install - kubeapps
-BLACKBOXAI
-
-kubeapps - Bitnami - Artifact Hub
-artifacthub
-
-Deploy Kubeapps application via helm in Kubernetes - Medium
-medium
-
-kubeapps/site/content/docs/latest/tutorials/getting-started.md at main
-github
-
-vmware-tanzu/kubeapps: A web-based UI for deploying ... - GitHub
-github
-
-To install Kubeapps using Helm, you can use the command: helm install kubeapps --namespace kubeapps bitnami/kubeapps. Make sure to create the kubeapps namespace beforehand if it doesn't already exist. You can also customize the installation with various flags as needed.
-Installation Steps for Kubeapps
-
-    Add the Bitnami Repository
-
-    bash
-
-helm repo add bitnami https://charts.bitnami.com/bitnami
-
-helm repo update
-
-Create the Namespace
-
-bash
-
-kubectl create namespace kubeapps
-
-Install Kubeapps
-
-bash
-
-    helm install kubeapps --namespace kubeapps bitnami/kubeapps --set useHelm3=true
-
-Accessing Kubeapps
-
-    Create a Service Account
-
-    bash
-
-kubectl create --namespace default serviceaccount kubeapps-operator
-
-Bind the Service Account to Cluster Role
-
-bash
-
-kubectl create clusterrolebinding kubeapps-operator --clusterrole=cluster-admin --serviceaccount=default:kubeapps-operator
-
-Retrieve the API Token
-
-bash
-
-    kubectl get --namespace default secret kubeapps-operator-token -o go-template='{{.data.token | base64decode}}'
-
-Port Forwarding to Access the Dashboard
-
-    Forward the Port
-
-    bash
-
-    kubectl port-forward -n kubeapps svc/kubeapps 8080:80 --address 0.0.0.0
-
-    Access the Dashboard
-        Open your web browser and navigate to http://localhost:8080.
-
-Additional Configuration
-
-    Ingress Configuration: If you want to expose Kubeapps externally, consider setting up an Ingress resource.
-    Role-Based Access Control (RBAC): For production environments, configure RBAC to manage user permissions effectively.
-
-By following these steps, you will successfully install and access Kubeapps on your Kubernetes cluster.
-
-create modest github profile like developer or devops or technical project manager or project manager or architect
-BLACKBOXAI
-
-github-profile.html
-
-html164 lines
-Click to expand
-
-<!DOCTYPE html>
-<html lang="en">
-...
-
-🎨 Generating images based on descriptions...
-
-✅ Images generated successfully! Here's your updated content:
-
-github-profile.html
-
-html164 lines
-Click to expand
-
-<!DOCTYPE html>
-<html lang="en">
-...
-
-UI UX best 3d animation and best profile experience with moving part and best tenilogy logoes
-BLACKBOXAI
-
-The request is to create a visually impressive UI/UX profile page featuring best 3D animation elements, moving parts for dynamic experience, and showcasing top technology logos.
-
-Key goals:
-
-    Integrate smooth 3D animations that enhance UI/UX.
-    Implement moving parts on the page that add interactivity and visual interest.
-    Display a curated set of top technology logos relevant to developer/DevOps/project management.
-    Ensure modern, clean, and visually balanced layout with responsive design.
-    Provide a single HTML file with inline CSS and JS for easy preview.
-    Use accessible and performant 3D animation techniques (CSS 3D transforms, WebGL via three.js, or CSS particles).
-    Include modern typography and consistent spacing with interactive animations on hover, scroll, or mouse movement.
-    The 3D animation or moving parts could be subtle interactive shapes or an avatar model or rotating cubes.
-    Use SVG or PNG logos from reliable CDNs or placeholders with descriptive alt text.
-
-Plan:
-
-    Create a full-page modern profile UI with a hero section featuring subtle 3D animation shapes in the background or interactive moving parts.
-    Profile avatar or 3D interactive sphere or cube with subtle rotation on mouse move.
-    Smooth floating or parallax shapes layered behind content.
-    A "Technologies" section with a horizontal or grid carousel of tech logos using fade/slide transitions or subtle scale/hover animations.
-    Use CSS variables for theme colors and transitions.
-    Animate textual elements with fade or slide-in on load.
-    Make sure all animations have reduced motion media query for accessibility.
-    Provide detailed alt text for all images.
-    Use Material Design icons or official logos from trusted sources when possible.
-    Use modern fonts like 'Inter' or 'Poppins'.
-    Ensure responsiveness for mobile, tablet, and desktop breakpoints.
-
-Now, I will build the full HTML file that meets these criteria.
-
-modern-3d-profile.html
-
-html330 lines
-Click to expand
-
-<!DOCTYPE html>
-<html lang="en">
-...
-
-🎨 Generating images based on descriptions...
-
-✅ Images generated successfully! Here's your updated content:
-
-The request is to create a visually impressive UI/UX profile page featuring best 3D animation elements, moving parts for dynamic experience, and showcasing top technology logos.
-
-Key goals:
-
-    Integrate smooth 3D animations that enhance UI/UX.
-    Implement moving parts on the page that add interactivity and visual interest.
-    Display a curated set of top technology logos relevant to developer/DevOps/project management.
-    Ensure modern, clean, and visually balanced layout with responsive design.
-    Provide a single HTML file with inline CSS and JS for easy preview.
-    Use accessible and performant 3D animation techniques (CSS 3D transforms, WebGL via three.js, or CSS particles).
-    Include modern typography and consistent spacing with interactive animations on hover, scroll, or mouse movement.
-    The 3D animation or moving parts could be subtle interactive shapes or an avatar model or rotating cubes.
-    Use SVG or PNG logos from reliable CDNs or placeholders with descriptive alt text.
-
-Plan:
-
-    Create a full-page modern profile UI with a hero section featuring subtle 3D animation shapes in the background or interactive moving parts.
-    Profile avatar or 3D interactive sphere or cube with subtle rotation on mouse move.
-    Smooth floating or parallax shapes layered behind content.
-    A "Technologies" section with a horizontal or grid carousel of tech logos using fade/slide transitions or subtle scale/hover animations.
-    Use CSS variables for theme colors and transitions.
-    Animate textual elements with fade or slide-in on load.
-    Make sure all animations have reduced motion media query for accessibility.
-    Provide detailed alt text for all images.
-    Use Material Design icons or official logos from trusted sources when possible.
-    Use modern fonts like 'Inter' or 'Poppins'.
-    Ensure responsiveness for mobile, tablet, and desktop breakpoints.
-
-Now, I will build the full HTML file that meets these criteria.
-
-modern-3d-profile.html
-
-html330 lines
-Click to expand
-
-<!DOCTYPE html>
-<html lang="en">
-...
-
-Nikhl Kawade
-https://github.com/indking
-indking.in
-
-© 2025 Nikhil Kawade. Crafted with modern web animation and accessibility best practices.
-BLACKBOXAI
-
-nikhil-kawade-profile.html
-
-html102 lines
-Click to expand
-
-<!DOCTYPE html>
-<html lang="en">
-...
-
-UI UX best 3d animation and best profile experience with moving part and best tenilogy logoes
-
-create modest github profile like developer or devops or technical project manager or project manager or architect
-
-Nikhl Kawade
-https://github.com/indking
-indking.in
-
-© 2025 Nikhil Kawade. Crafted with modern web animation and accessibility best practices.
-BLACKBOXAI
-
-nikhil-kawade-3d-profile.html
-
-html242 lines
-Click to expand
-
-<!DOCTYPE html>
-<html lang="en">
-...
-
-🎨 Generating images based on descriptions...
-
-✅ Images generated successfully! Here's your updated content:
-
-nikhil-kawade-3d-profile.html
-
-html242 lines
-Click to expand
-
-<!DOCTYPE html>
-<html lang="en">
-...
-
-magic xpa xpi and alltechilogies of magcic xpa and xpi
-BLACKBOXAI
-
-Magic xpi | Integration Platform | Process Automation - Magic Software
-magicsoftware
-
-Magic xpa | Low Code Platform for Rapid App Development
-magicsoftware
-
-[PDF] Magic XPA | Satson
-satsonglobal
-
-Magic xpi | Tatrasoft
-tatrasoft
-
-Magic xpa is a low-code application development platform that enables rapid app creation with high performance and scalability. Magic xpi, on the other hand, is an integration platform that offers over 100 pre-built connectors for seamless connectivity between various applications and systems, both in the cloud and on-premise.
-
-add all logos. jira and confluence and other rlogoes
-BLACKBOXAI
-
-You want to enhance the previous Nikhil Kawade profile page with the best UI/UX 3D animation and moving parts, including an expanded "Technologies & Tools" section that features additional logos such as Jira, Confluence, and others related to Magic xpa, Magic xpi, and general tools in the ecosystem.
-
-I have the existing profile with a 3D interactive avatar and technical logos. I will extend the technology logos section to include:
-
-    Jira
-    Confluence
-    Magic xpa
-    Magic xpi
-    Plus related common logos, for example:
-        Bitbucket
-        Slack
-        Trello
-        Azure DevOps (if applicable)
-
-I will search for official SVG or PNG logos for these services or use placeholders with detailed alt text and consistent styling.
-
-The updated page will remain a single HTML file with inline CSS and JavaScript for the 3D sphere avatar interaction.
-
-I will ensure all logos have descriptive alt text with no overlapping or large gaps, following the existing style and layout.
-
-Now proceeding to create the updated full HTML file with expanded logos.
-
-nikhil-kawade-3d-profile-extended.html
-
-html241 lines
-Click to expand
-
-<!DOCTYPE html>
-<html lang="en">
-...
-
-🎨 Generating images based on descriptions...
-
-✅ Images generated successfully! Here's your updated content:
-
-You want to enhance the previous Nikhil Kawade profile page with the best UI/UX 3D animation and moving parts, including an expanded "Technologies & Tools" section that features additional logos such as Jira, Confluence, and others related to Magic xpa, Magic xpi, and general tools in the ecosystem.
-
-I have the existing profile with a 3D interactive avatar and technical logos. I will extend the technology logos section to include:
-
-    Jira
-    Confluence
-    Magic xpa
-    Magic xpi
-    Plus related common logos, for example:
-        Bitbucket
-        Slack
-        Trello
-        Azure DevOps (if applicable)
-
-I will search for official SVG or PNG logos for these services or use placeholders with detailed alt text and consistent styling.
-
-The updated page will remain a single HTML file with inline CSS and JavaScript for the 3D sphere avatar interaction.
-
-I will ensure all logos have descriptive alt text with no overlapping or large gaps, following the existing style and layout.
-
-Now proceeding to create the updated full HTML file with expanded logos.
-
-nikhil-kawade-3d-profile-extended.html
-
-html241 lines
-Click to expand
-
-<!DOCTYPE html>
-<html lang="en">
-...
-
-display all sql and techology
-& python
-ollama and kubernates loogs needs to be corrected
-remove teraform
-java .net c#
-AI - cursor,winserf,copilot & others
-
-add
-BLACKBOXAI
-
-nikhil-kawade-3d-profile-enhanced.html
-
-html262 lines
-Click to expand
-
-<!DOCTYPE html>
-<html lang="en">
-...
-
-🎨 Generating images based on descriptions...
-
-✅ Images generated successfully! Here's your updated content:
-
-nikhil-kawade-3d-profile-enhanced.html
-
-html262 lines
-Click to close
-
-<!DOCTYPE html>
-<html lang="en">
-...
-
-Follow us on
-
-By using Blackbox you agree to the Terms and Privacy.
