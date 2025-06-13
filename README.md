@@ -259,12 +259,70 @@ const techFighter = {
   <a href="https://fluxcd.io/" target="_blank"><img src="https://img.shields.io/badge/FluxCD-5468FF?style=for-the-badge&logo=flux&logoColor=white" /></a>
 </div>
 
-### 🏢 Enterprise Application Development
+### 🌐 WEB FRAMEWORKS & FRONTEND MASTERY
+<div align="center">
+  <a href="https://reactjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
+  <a href="https://angular.io/" target="_blank"><img src="https://skillicons.dev/icons?i=angular" alt="Angular" /></a>
+  <a href="https://vuejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" /></a>
+  <a href="https://nextjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" /></a>
+  <a href="https://nuxtjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nuxtjs" alt="Nuxt.js" /></a>
+  <a href="https://svelte.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=svelte" alt="Svelte" /></a>
+  <a href="https://remix.run/" target="_blank"><img src="https://skillicons.dev/icons?i=remix" alt="Remix" /></a>
+  <a href="https://astro.build/" target="_blank"><img src="https://skillicons.dev/icons?i=astro" alt="Astro" /></a>
+</div>
+<div align="center">
+  <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></a>
+  <a href="https://expressjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=express" alt="Express.js" /></a>
+  <a href="https://nestjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=nestjs" alt="NestJS" /></a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" /></a>
+  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://skillicons.dev/icons?i=flask" alt="Flask" /></a>
+  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://skillicons.dev/icons?i=django" alt="Django" /></a>
+  <a href="https://spring.io/" target="_blank"><img src="https://skillicons.dev/icons?i=spring" alt="Spring" /></a>
+  <a href="https://laravel.com/" target="_blank"><img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" /></a>
+</div>
+
+### 📱 MOBILE DEVELOPMENT ARSENAL
+<div align="center">
+  <a href="https://flutter.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" /></a>
+  <a href="https://reactnative.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" alt="React Native" /></a>
+  <a href="https://developer.android.com/" target="_blank"><img src="https://skillicons.dev/icons?i=androidstudio" alt="Android" /></a>
+  <a href="https://developer.apple.com/ios/" target="_blank"><img src="https://skillicons.dev/icons?i=swift" alt="iOS/Swift" /></a>
+  <a href="https://ionicframework.com/" target="_blank"><img src="https://skillicons.dev/icons?i=ionic" alt="Ionic" /></a>
+  <a href="https://cordova.apache.org/" target="_blank"><img src="https://img.shields.io/badge/Cordova-35434F?style=for-the-badge&logo=apache-cordova&logoColor=E8E8E8" /></a>
+  <a href="https://expo.dev/" target="_blank"><img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" /></a>
+</div>
+
+### 🤖 AI/ML & DATA SCIENCE DOMINION
+<div align="center">
+  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" /></a>
+  <a href="https://pytorch.org/" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" /></a>
+  <a href="https://scikit-learn.org/" target="_blank"><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /></a>
+  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /></a>
+  <a href="https://numpy.org/" target="_blank"><img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" /></a>
+  <a href="https://jupyter.org/" target="_blank"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" /></a>
+  <a href="https://opencv.org/" target="_blank"><img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" /></a>
+  <a href="https://huggingface.co/" target="_blank"><img src="https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge" /></a>
+</div>
+
+### ⛓️ BLOCKCHAIN & WEB3 MASTERY
+<div align="center">
+  <a href="https://soliditylang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=solidity" alt="Solidity" /></a>
+  <a href="https://ethereum.org/" target="_blank"><img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" /></a>
+  <a href="https://web3js.readthedocs.io/" target="_blank"><img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" /></a>
+  <a href="https://hardhat.org/" target="_blank"><img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black" /></a>
+  <a href="https://trufflesuite.com/" target="_blank"><img src="https://img.shields.io/badge/Truffle-5E464D?style=for-the-badge&logo=truffle&logoColor=white" /></a>
+  <a href="https://metamask.io/" target="_blank"><img src="https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask&logoColor=white" /></a>
+  <a href="https://ipfs.io/" target="_blank"><img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white" /></a>
+</div>
+
+### 🏢 ENTERPRISE APPLICATION DEVELOPMENT
 <div align="center">
   <a href="https://www.magicsoftware.com/platform-technology/magic-xpa/" target="_blank"><img src="https://img.shields.io/badge/Enterprise%20xpa-4A90E2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMSA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDMgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K&logoColor=white" /></a>
   <a href="https://www.magicsoftware.com/platform-technology/magic-xpi/" target="_blank"><img src="https://img.shields.io/badge/Integration%20xpi-6B73FF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMSA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDMgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K&logoColor=white" /></a>
-  <a href="https://www.enterprise-software.com/" target="_blank"><img src="https://img.shields.io/badge/Enterprise%20Solutions-2E8B57?style=for-the-badge&logo=enterprise&logoColor=white" /></a>
-  <a href="https://www.salesforce.com/products/platform/" target="_blank"><img src="https://img.shields.io/badge/Business%20Applications-FF6B35?style=for-the-badge&logo=applications&logoColor=white" /></a>
+  <a href="https://www.sap.com/" target="_blank"><img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" /></a>
+  <a href="https://www.salesforce.com/" target="_blank"><img src="https://skillicons.dev/icons?i=salesforce" alt="Salesforce" /></a>
+  <a href="https://www.oracle.com/applications/" target="_blank"><img src="https://img.shields.io/badge/Oracle%20Apps-F80000?style=for-the-badge&logo=oracle&logoColor=white" /></a>
+  <a href="https://www.microsoft.com/en-us/dynamics-365" target="_blank"><img src="https://img.shields.io/badge/Dynamics%20365-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" /></a>
 </div>
 
 ### 🔧 Tools & Frameworks  
