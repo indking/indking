@@ -9,8 +9,9 @@
 <img src="https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/4fbec4c9-41fc-450a-8542-64f0e658e75d.png" width="200" height="200" alt="Nikhil Kawade" style="border-radius: 50%; border: 4px solid #00ff88;" />
 
 <!-- Professional Tagline -->
-<h3 align="center">🚀 Elite Software Architect & Innovation Leader 🚀</h3>
-<h4 align="center">Transforming Complex Challenges into Elegant Solutions</h4>
+<h3 align="center">💻 Full-Stack Developer | 🔧 DevOps Engineer | 🏗️ Technical Architect</h3>
+<h4 align="center">📋 Project Manager | 🎯 Solution Designer | 🤝 Support Specialist</h4>
+<h5 align="center">Transforming Complex Challenges into Elegant Solutions</h5>
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -24,10 +25,23 @@
 
 ```typescript
 const nikhil = {
-    role: "Elite Software Architect & Innovation Leader",
+    roles: [
+        "Full-Stack Developer", 
+        "DevOps Engineer", 
+        "Technical Architect",
+        "Project Manager", 
+        "Solution Designer", 
+        "Support Specialist"
+    ],
     location: "🌍 Global Remote",
     experience: "8+ Years of Excellence",
-    specialization: ["System Architecture", "Cloud Solutions", "Team Leadership"],
+    specialization: [
+        "Enterprise Application Development",
+        "Cloud Architecture & DevOps", 
+        "Project Management & Leadership",
+        "Monitoring & Observability",
+        "Technical Support & Solutions"
+    ],
     passion: "Building scalable systems that make a difference",
     motto: "Code is poetry written in logic ✨"
 };
@@ -55,10 +69,10 @@ const nikhil = {
 <td width="50%">
 
 **🔭 Currently Working On**
-- 🚀 Next-gen microservices architecture  
-- 🤖 AI-powered development tools
-- ☁️ Cloud-native applications
-- 🔧 Open source contributions
+- 🏢 Enterprise application development
+- 📊 Monitoring & observability solutions
+- ☁️ Cloud infrastructure automation
+- 🔧 DevOps pipeline improvements
 
 </td>
 <td width="50%">
@@ -75,10 +89,10 @@ const nikhil = {
 <td width="50%">
 
 **👯 Looking to Collaborate**
-- 🔧 Open source projects
-- 💡 Innovative startups
-- 🎯 Technical leadership roles
-- 🌟 Game-changing solutions
+- 🔧 Open source development projects
+- 📋 Technical project management
+- 🏗️ System architecture initiatives
+- 🤝 DevOps & infrastructure solutions
 
 </td>
 <td width="50%">
@@ -117,10 +131,52 @@ const nikhil = {
 <div align="center">
   <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,jenkins,githubactions" />
 </div>
+<div align="center">
+  <img src="https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" />
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazoncloudwatch&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white" />
+  <img src="https://img.shields.io/badge/Loki-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Coralogix-5B2D87?style=for-the-badge&logo=coralogix&logoColor=white" />
+</div>
+
+### 🏢 Enterprise Application Development
+<div align="center">
+  <img src="https://img.shields.io/badge/Enterprise%20xpa-4A90E2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMSA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDMgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K&logoColor=white" />
+  <img src="https://img.shields.io/badge/Integration%20xpi-6B73FF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMSA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDMgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K&logoColor=white" />
+  <img src="https://img.shields.io/badge/Enterprise%20Solutions-2E8B57?style=for-the-badge&logo=enterprise&logoColor=white" />
+  <img src="https://img.shields.io/badge/Business%20Applications-FF6B35?style=for-the-badge&logo=applications&logoColor=white" />
+</div>
 
 ### 🔧 Tools & Frameworks  
 <div align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,figma" />
+</div>
+
+### 📊 Monitoring & Observability
+<div align="center">
+  <img src="https://img.shields.io/badge/Azure%20Monitor-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elastic%20Stack-005571?style=for-the-badge&logo=elastic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jaeger-66CFE6?style=for-the-badge&logo=jaeger&logoColor=black" />
+  <img src="https://img.shields.io/badge/Zipkin-FF6B6B?style=for-the-badge&logo=zipkin&logoColor=white" />
+</div>
+
+### 📋 Project Management & Collaboration
+<div align="center">
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" />
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white" />
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/ServiceNow-62D84E?style=for-the-badge&logo=servicenow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zendesk-03363D?style=for-the-badge&logo=zendesk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white" />
 </div>
 
 ### 🤖 AI & Modern Tools
@@ -202,25 +258,35 @@ const nikhil = {
 <!-- Professional Skills Matrix -->
 <table>
 <tr>
-<td align="center" width="25%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60" alt="Java" />
-<br><strong>Backend</strong>
-<br><sub>Java, C#, .NET</sub>
+<td align="center" width="16.66%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Development" />
+<br><strong>Development</strong>
+<br><sub>Full-Stack & Backend</sub>
 </td>
-<td align="center" width="25%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="60" height="60" alt="Cloud" />
-<br><strong>Cloud</strong>
-<br><sub>AWS, Azure, GCP</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" height="60" alt="DevOps" />
+<td align="center" width="16.66%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" alt="DevOps" />
 <br><strong>DevOps</strong>
-<br><sub>Docker, K8s, CI/CD</sub>
+<br><sub>CI/CD & Automation</sub>
 </td>
-<td align="center" width="25%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" height="60" alt="Database" />
+<td align="center" width="16.66%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50" height="50" alt="Architecture" />
+<br><strong>Architecture</strong>
+<br><sub>Cloud & System Design</sub>
+</td>
+<td align="center" width="16.66%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="50" height="50" alt="Management" />
+<br><strong>Management</strong>
+<br><sub>Project & Technical</sub>
+</td>
+<td align="center" width="16.66%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="50" height="50" alt="Monitoring" />
+<br><strong>Monitoring</strong>
+<br><sub>Observability & Support</sub>
+</td>
+<td align="center" width="16.66%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="Database" />
 <br><strong>Database</strong>
-<br><sub>SQL, NoSQL, Cache</sub>
+<br><sub>SQL & NoSQL</sub>
 </td>
 </tr>
 </table>
@@ -239,11 +305,11 @@ const nikhil = {
 <tr>
 <td width="33%" align="center">
 
-**⚡ Quick Facts**
-- 🎯 8+ Years in Tech
-- 🏆 50+ Projects Delivered  
-- 🌟 100% Client Satisfaction
-- 🚀 Always Learning
+**⚡ Professional Journey**
+- 💻 8+ Years in Software Development
+- 🔧 DevOps & Infrastructure Expert  
+- 📋 Project Management Experience
+- 🤝 Technical Support Specialist
 
 </td>
 <td width="33%" align="center">
@@ -257,11 +323,11 @@ const nikhil = {
 </td>
 <td width="33%" align="center">
 
-**🏅 Achievements**
-- 💎 Microsoft Certified
-- ☁️ AWS Solutions Expert
-- 🐳 Docker Specialist
-- 🔧 DevOps Champion
+**🏅 Core Competencies**
+- 🏗️ System Architecture & Design
+- ☁️ Cloud Infrastructure Management
+- 📊 Monitoring & Observability
+- 🚀 Enterprise Application Development
 
 </td>
 </tr>
