@@ -668,7 +668,7 @@ DevOps & Scripting  █                                          0.8%
   <a href="https://medium.com/@indking" target="_blank">
     <img src="https://img.shields.io/badge/📚%20Battle%20Strategies-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
-  <a href="https://stackoverflow.com/users/indking" target="_blank">
+  <a href="https://stackoverflow.com/users/30795462/indking" target="_blank">
     <img src="https://img.shields.io/badge/🛡️%20Code%20Fortress-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
   </a>
 </div>
