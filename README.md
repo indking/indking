@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <!-- Dynamic Title with Gradient -->
@@ -138,40 +139,50 @@ const nikhil = {
 
 ### ☁️ Cloud & DevOps
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,jenkins,githubactions" />
+  <a href="https://aws.amazon.com/" target="_blank"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" /></a>
+  <a href="https://azure.microsoft.com/" target="_blank"><img src="https://skillicons.dev/icons?i=azure" alt="Azure" /></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>
+  <a href="https://kubernetes.io/" target="_blank"><img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" /></a>
+  <a href="https://www.jenkins.io/" target="_blank"><img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" /></a>
+  <a href="https://github.com/features/actions" target="_blank"><img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" /></a>
 </div>
 <div align="center">
-  <img src="https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" />
+  <a href="https://podman.io/" target="_blank"><img src="https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white" /></a>
+  <a href="https://grafana.com/" target="_blank"><img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" /></a>
+  <a href="https://prometheus.io/" target="_blank"><img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" /></a>
+  <a href="https://www.datadoghq.com/" target="_blank"><img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" /></a>
 </div>
 <div align="center">
-  <img src="https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazoncloudwatch&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white" />
-  <img src="https://img.shields.io/badge/Loki-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-  <img src="https://img.shields.io/badge/Coralogix-5B2D87?style=for-the-badge&logo=coralogix&logoColor=white" />
+  <a href="https://aws.amazon.com/cloudwatch/" target="_blank"><img src="https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazoncloudwatch&logoColor=white" /></a>
+  <a href="https://opentelemetry.io/" target="_blank"><img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white" /></a>
+  <a href="https://grafana.com/oss/loki/" target="_blank"><img src="https://img.shields.io/badge/Loki-F46800?style=for-the-badge&logo=grafana&logoColor=white" /></a>
+  <a href="https://coralogix.com/" target="_blank"><img src="https://img.shields.io/badge/Coralogix-5B2D87?style=for-the-badge&logo=coralogix&logoColor=white" /></a>
 </div>
 
 ### 🏢 Enterprise Application Development
 <div align="center">
-  <img src="https://img.shields.io/badge/Enterprise%20xpa-4A90E2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMSA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDMgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K&logoColor=white" />
-  <img src="https://img.shields.io/badge/Integration%20xpi-6B73FF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMSA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDMgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K&logoColor=white" />
-  <img src="https://img.shields.io/badge/Enterprise%20Solutions-2E8B57?style=for-the-badge&logo=enterprise&logoColor=white" />
-  <img src="https://img.shields.io/badge/Business%20Applications-FF6B35?style=for-the-badge&logo=applications&logoColor=white" />
+  <a href="https://www.magicsoftware.com/platform-technology/magic-xpa/" target="_blank"><img src="https://img.shields.io/badge/Enterprise%20xpa-4A90E2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMSA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDMgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K&logoColor=white" /></a>
+  <a href="https://www.magicsoftware.com/platform-technology/magic-xpi/" target="_blank"><img src="https://img.shields.io/badge/Integration%20xpi-6B73FF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMSA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDMgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K&logoColor=white" /></a>
+  <a href="https://www.enterprise-software.com/" target="_blank"><img src="https://img.shields.io/badge/Enterprise%20Solutions-2E8B57?style=for-the-badge&logo=enterprise&logoColor=white" /></a>
+  <a href="https://www.salesforce.com/products/platform/" target="_blank"><img src="https://img.shields.io/badge/Business%20Applications-FF6B35?style=for-the-badge&logo=applications&logoColor=white" /></a>
 </div>
 
 ### 🔧 Tools & Frameworks  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,figma" />
+  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
+  <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" /></a>
+  <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" /></a>
+  <a href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" /></a>
+  <a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" /></a>
 </div>
 
 ### 📊 Monitoring & Observability
 <div align="center">
-  <img src="https://img.shields.io/badge/Azure%20Monitor-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Elastic%20Stack-005571?style=for-the-badge&logo=elastic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jaeger-66CFE6?style=for-the-badge&logo=jaeger&logoColor=black" />
-  <img src="https://img.shields.io/badge/Zipkin-FF6B6B?style=for-the-badge&logo=zipkin&logoColor=white" />
+  <a href="https://azure.microsoft.com/en-us/products/monitor/" target="_blank"><img src="https://img.shields.io/badge/Azure%20Monitor-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" /></a>
+  <a href="https://www.elastic.co/" target="_blank"><img src="https://img.shields.io/badge/Elastic%20Stack-005571?style=for-the-badge&logo=elastic&logoColor=white" /></a>
+  <a href="https://www.jaegertracing.io/" target="_blank"><img src="https://img.shields.io/badge/Jaeger-66CFE6?style=for-the-badge&logo=jaeger&logoColor=black" /></a>
+  <a href="https://zipkin.io/" target="_blank"><img src="https://img.shields.io/badge/Zipkin-FF6B6B?style=for-the-badge&logo=zipkin&logoColor=white" /></a>
 </div>
 
 ### 📋 Project Management & Collaboration
