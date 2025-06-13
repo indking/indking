@@ -325,14 +325,71 @@ const techFighter = {
   <a href="https://www.microsoft.com/en-us/dynamics-365" target="_blank"><img src="https://img.shields.io/badge/Dynamics%20365-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" /></a>
 </div>
 
-### 🔧 Tools & Frameworks  
+### 🧪 TESTING & QUALITY ASSURANCE MASTERY
+<div align="center">
+  <a href="https://jestjs.io/" target="_blank"><img src="https://skillicons.dev/icons?i=jest" alt="Jest" /></a>
+  <a href="https://www.cypress.io/" target="_blank"><img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" /></a>
+  <a href="https://playwright.dev/" target="_blank"><img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" /></a>
+  <a href="https://selenium.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=selenium" alt="Selenium" /></a>
+  <a href="https://vitest.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=vitest" alt="Vitest" /></a>
+  <a href="https://testing-library.com/" target="_blank"><img src="https://img.shields.io/badge/Testing%20Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white" /></a>
+  <a href="https://mochajs.org/" target="_blank"><img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white" /></a>
+  <a href="https://junit.org/" target="_blank"><img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" /></a>
+</div>
+
+### 🛡️ SECURITY & PENETRATION TESTING
+<div align="center">
+  <a href="https://owasp.org/" target="_blank"><img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" /></a>
+  <a href="https://www.kali.org/" target="_blank"><img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" /></a>
+  <a href="https://www.metasploit.com/" target="_blank"><img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" /></a>
+  <a href="https://nmap.org/" target="_blank"><img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" /></a>
+  <a href="https://www.wireshark.org/" target="_blank"><img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" /></a>
+  <a href="https://portswigger.net/burp" target="_blank"><img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" /></a>
+  <a href="https://www.sonarqube.org/" target="_blank"><img src="https://skillicons.dev/icons?i=sonarqube" alt="SonarQube" /></a>
+</div>
+
+### 🎮 GAME DEVELOPMENT & GRAPHICS
+<div align="center">
+  <a href="https://unity.com/" target="_blank"><img src="https://skillicons.dev/icons?i=unity" alt="Unity" /></a>
+  <a href="https://unrealengine.com/" target="_blank"><img src="https://skillicons.dev/icons?i=unreal" alt="Unreal Engine" /></a>
+  <a href="https://godotengine.org/" target="_blank"><img src="https://skillicons.dev/icons?i=godot" alt="Godot" /></a>
+  <a href="https://www.blender.org/" target="_blank"><img src="https://skillicons.dev/icons?i=blender" alt="Blender" /></a>
+  <a href="https://threejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=threejs" alt="Three.js" /></a>
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://skillicons.dev/icons?i=photoshop" alt="Photoshop" /></a>
+  <a href="https://www.adobe.com/products/aftereffects.html" target="_blank"><img src="https://skillicons.dev/icons?i=aftereffects" alt="After Effects" /></a>
+</div>
+
+### 🔧 DEVELOPMENT TOOLS & IDEs
 <div align="center">
   <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
   <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
+  <a href="https://gitlab.com/" target="_blank"><img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" /></a>
+  <a href="https://bitbucket.org/" target="_blank"><img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" /></a>
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" /></a>
   <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" /></a>
+  <a href="https://www.jetbrains.com/webstorm/" target="_blank"><img src="https://skillicons.dev/icons?i=webstorm" alt="WebStorm" /></a>
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank"><img src="https://skillicons.dev/icons?i=pycharm" alt="PyCharm" /></a>
+</div>
+<div align="center">
   <a href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" /></a>
+  <a href="https://insomnia.rest/" target="_blank"><img src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white" /></a>
   <a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" /></a>
+  <a href="https://www.adobe.com/products/xd.html" target="_blank"><img src="https://skillicons.dev/icons?i=xd" alt="Adobe XD" /></a>
+  <a href="https://www.sketch.com/" target="_blank"><img src="https://skillicons.dev/icons?i=sketch" alt="Sketch" /></a>
+  <a href="https://www.notion.so/" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" /></a>
+  <a href="https://obsidian.md/" target="_blank"><img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white" /></a>
+</div>
+
+### 🌐 OPERATING SYSTEMS & VIRTUALIZATION
+<div align="center">
+  <a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" /></a>
+  <a href="https://ubuntu.com/" target="_blank"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /></a>
+  <a href="https://www.debian.org/" target="_blank"><img src="https://skillicons.dev/icons?i=debian" alt="Debian" /></a>
+  <a href="https://www.redhat.com/" target="_blank"><img src="https://skillicons.dev/icons?i=redhat" alt="Red Hat" /></a>
+  <a href="https://www.microsoft.com/windows" target="_blank"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /></a>
+  <a href="https://www.apple.com/macos/" target="_blank"><img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" /></a>
+  <a href="https://www.vmware.com/" target="_blank"><img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" /></a>
+  <a href="https://www.virtualbox.org/" target="_blank"><img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" /></a>
 </div>
 
 ### 📊 Monitoring & Observability
@@ -370,21 +427,54 @@ const techFighter = {
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- GitHub Statistics -->
+<!-- Epic Battle Statistics Arena -->
 <div align="center">
 
-## 📊 GitHub Analytics
+<!-- Battle Arena Background -->
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%" height="100" />
 
-<table>
+## ⚔️ BATTLE STATISTICS & COMBAT ANALYTICS ⚔️
+
+<!-- Power Level Indicators -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="30" height="30" />
+  <strong>🔥 LEGENDARY DEVELOPER COMBAT STATS 🔥</strong>
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="30" height="30" />
+</div>
+
+<table style="border: 3px solid #ff6b00;">
 <tr>
 <td width="50%">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=indking&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4facfe&icon_color=00f2fe&text_color=ffffff&count_private=false&include_all_commits=true&hide_rank=false&custom_title=Nikhil's%20GitHub%20Stats&disable_animations=false&range=all)
+<!-- Enhanced GitHub Stats with Battle Theme -->
+![⚔️ Combat Stats](https://github-readme-stats.vercel.app/api?username=indking&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117,1a1a2e,16213e,0f3460&title_color=ff6b00&icon_color=00ff88&text_color=ffffff&count_private=true&include_all_commits=true&hide_rank=false&custom_title=⚔️%20NIKHIL'S%20BATTLE%20STATS%20⚔️&disable_animations=false&ring_color=ff6b00&fire_color=00ff88)
 
 </td>
 <td width="50%">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=indking&theme=tokyonight&hide_border=true&background=0D1117&stroke=4facfe&ring=00f2fe&fire=00ff88&currStreakLabel=ffffff&dates=ffffff)
+<!-- Epic Streak Counter -->
+![🔥 Victory Streak](https://streak-stats.demolab.com/?user=indking&theme=radical&hide_border=true&background=0D1117&stroke=ff6b00&ring=00ff88&fire=ff6b00&currStreakLabel=ffffff&dates=ffffff&sideLabels=00ff88&currStreakNum=ff6b00&sideNums=ffffff)
+
+</td>
+</tr>
+</table>
+
+<!-- Advanced GitHub Metrics -->
+<table style="border: 2px solid #00ff88;">
+<tr>
+<td width="33%">
+
+![🏆 Trophies](https://github-profile-trophy.vercel.app/?username=indking&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=3&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest)
+
+</td>
+<td width="33%">
+
+![📊 Detailed Stats](https://github-readme-stats.vercel.app/api?username=indking&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00ff88&icon_color=ff6b00&text_color=ffffff&custom_title=📊%20DETAILED%20ANALYTICS&hide=issues&show=reviews,prs_merged,prs_merged_percentage)
+
+</td>
+<td width="33%">
+
+![⚡ Activity](https://github-readme-stats.vercel.app/api/wakatime?username=indking&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff6b00&text_color=ffffff&custom_title=⚡%20CODING%20ACTIVITY)
 
 </td>
 </tr>
@@ -421,8 +511,55 @@ const techFighter = {
 
 </div>
 
-<!-- Activity Graph -->
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=indking&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=4facfe&line=00f2fe&point=00ff88&custom_title=Nikhil's%20Contribution%20Graph&area=true)
+<!-- Epic Battle Activity Graph -->
+![⚔️ Battle Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=indking&theme=redical&hide_border=true&bg_color=0D1117&color=ff6b00&line=00ff88&point=ff6b00&custom_title=⚔️%20NIKHIL'S%20LEGENDARY%20BATTLE%20CONTRIBUTIONS%20⚔️&area=true&area_color=ff6b00)
+
+<!-- Real-time Coding Stats -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" />
+</div>
+
+<!-- Dynamic Widgets Section -->
+<table>
+<tr>
+<td width="50%">
+
+### 🎵 CURRENTLY JAMMING TO
+[![Spotify](https://spotify-github-profile.vercel.app/api/spotify-playing)](https://spotify-github-profile.vercel.app/api/spotify-playing)
+
+### 📝 LATEST BLOG POSTS
+<!-- BLOG-POST-LIST:START -->
+- 🔥 Building Scalable Microservices with Docker & Kubernetes
+- ⚡ Advanced DevOps Strategies for Enterprise Applications  
+- 🚀 AI-Powered Development: The Future is Now
+- 💻 Full-Stack Development Best Practices 2024
+- 🛡️ Cybersecurity in Modern Web Applications
+<!-- BLOG-POST-LIST:END -->
+
+</td>
+<td width="50%">
+
+### 🌟 RANDOM DEV QUOTE
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🎯 CURRENT OBJECTIVES
+- [ ] 🔥 Master Advanced Kubernetes Orchestration
+- [ ] ⚡ Complete AI/ML Certification Program  
+- [ ] 🚀 Launch Open Source Project
+- [ ] 💻 Contribute to 50+ Repositories
+- [ ] 🏆 Achieve GitHub Arctic Code Vault Contributor
+
+### ⚡ POWER LEVEL METER
+![](https://github-readme-stats.vercel.app/api?username=indking&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff6b00&icon_color=00ff88&text_color=ffffff&custom_title=⚡%20CURRENT%20POWER%20LEVEL&hide=stars,commits,prs,issues,contribs&show_icons=false)
+
+</td>
+</tr>
+</table>
+
+<!-- Dynamic Time-based Greeting -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=600&height=50&duration=2000&lines=🌅+Good+Morning+Warrior!;☀️+Coding+in+Full+Swing!;🌙+Night+Owl+Developer!;⚡+Always+Ready+for+Battle!" />
+</div>
 
 <!-- Trophy Stats -->
 <img src="https://github-profile-trophy.vercel.app/?username=indking&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7&cache_seconds=1800" width="100%" alt="Trophy Stats" />
