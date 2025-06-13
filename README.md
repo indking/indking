@@ -200,10 +200,10 @@ const nikhil = {
 <table>
 <tr>
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=indking&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4facfe&icon_color=00f2fe&text_color=ffffff&count_private=true" alt="GitHub Stats" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=indking&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4facfe&icon_color=00f2fe&text_color=ffffff&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" width="100%" />
 </td>
 <td width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=indking&theme=tokyonight&hide_border=true&background=0D1117&stroke=4facfe&ring=00f2fe&fire=00ff88&currStreakLabel=ffffff" alt="GitHub Streak" width="100%" />
+<img src="https://streak-stats.demolab.com/?user=indking&theme=tokyonight&hide_border=true&background=0D1117&stroke=4facfe&ring=00f2fe&fire=00ff88&currStreakLabel=ffffff&dates=ffffff" alt="GitHub Streak" width="100%" />
 </td>
 </tr>
 </table>
@@ -211,19 +211,34 @@ const nikhil = {
 <table>
 <tr>
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indking&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4facfe&text_color=ffffff&langs_count=8" alt="Top Languages" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indking&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4facfe&text_color=ffffff&langs_count=8&exclude_repo=indking&cache_seconds=1800" alt="Top Languages" width="100%" />
 </td>
 <td width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=indking&theme=tokyonight" alt="Productive Time" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=indking&theme=tokyonight&utcOffset=8" alt="Productive Time" width="100%" />
 </td>
 </tr>
 </table>
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=indking&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=4facfe&line=00f2fe&point=00ff88&custom_title=Nikhil's%20Contribution%20Graph" width="100%" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=indking&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=4facfe&line=00f2fe&point=00ff88&custom_title=Nikhil's%20Contribution%20Graph&area=true&cache_seconds=1800" width="100%" alt="Activity Graph" />
 
 <!-- Trophy Stats -->
-<img src="https://github-profile-trophy.vercel.app/?username=indking&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=8" width="100%" alt="Trophy Stats" />
+<img src="https://github-profile-trophy.vercel.app/?username=indking&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7&cache_seconds=1800" width="100%" alt="Trophy Stats" />
+
+<!-- Alternative Stats Display -->
+<details>
+<summary>📈 Additional GitHub Metrics</summary>
+
+### Repository Stats
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=indking&repo=indking&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4facfe&text_color=ffffff" alt="Profile Repo" />
+
+### Detailed Analytics
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=indking&theme=tokyonight" alt="Profile Details" width="100%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=indking&theme=tokyonight" alt="Repos per Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=indking&theme=tokyonight" alt="Most Commit Language" />
+
+</details>
 
 </div>
 
